@@ -3,7 +3,7 @@
 [Link](https://www.biorxiv.org/content/early/2019/07/17/705244.full.pdf) to preprint.
 
 <p align="center"> 
-<img src="graphical_abstract.jpeg">
+<img src="graphical_abstract.jpg">
 </p>
 
 Lung injury activates quiescent stem and progenitor cells to regenerate alveolar structures. The sequence and coordination of transcriptional programs during this process has largely remained elusive. Using single cell RNA‐seq, we first generated a whole‐organ bird’s‐eye view on cellular dynamics and cell‐cell communication networks during mouse lung regeneration from ~30,000 cells at six timepoints. We discovered an injury‐specific progenitor cell state characterized by Krt8 in flat epithelial cells covering alveolar surfaces. The number of these cells peaked during fibrogenesis in independent mouse models, as well as in human acute lung injury and fibrosis. Krt8+ progenitors featured a highly distinct connectome of receptor‐ligand pairs with endothelial cells, fibroblasts, and macrophages. To ‘sky dive’ into epithelial differentiation dynamics, we sequenced >30,000 sorted epithelial cells at 18 timepoints and
