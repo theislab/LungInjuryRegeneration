@@ -1,4 +1,4 @@
-# Longitudinal single cell transcriptomics reveals Krt8+ alveolar epithelial progenitors in lung regeneration 
+# Longitudinal single cell transcriptomics of lung regeneration reveals a fibrogenesis specific epithelial cell state 
 
 [Link](https://www.biorxiv.org/content/early/2019/07/17/705244.full.pdf) to preprint.
 
