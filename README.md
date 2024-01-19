@@ -2,7 +2,7 @@
 
 Link to publication: [Strunz/Simon et al. Nat Commun. 2020](https://www.nature.com/articles/s41467-020-17358-3).
 
-**[Interactive webtool](http://146.107.176.18:3838/Bleo_webtool_v2)**. (Please wait a few minutes to load the webpage). By clicking on the link you agree with our data protection policy (as outlined [here](https://www.helmholtz-muenchen.de/en/imprint/index.html)).
+**[Interactive webtool](https://schillerlabshiny.shinyapps.io/Bleo_webtool/)**. (Please wait a few minutes to load the webpage). By clicking on the link you agree with our data protection policy (as outlined [here](https://www.helmholtz-muenchen.de/en/imprint/index.html)).
 
 <p align="center"> 
 <img src="graphical abstract.jpg">
